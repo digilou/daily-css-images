@@ -26,4 +26,5 @@ Weekday CSS image creations initiated by the http://dailycssimages.com/.
 16. [Frankenstein's Monster](http://codepen.io/digilou/pen/GrBqqq)
 17. Zombie
 18. Vampire
-19. Monster of choice
+19. [Elmo - monster of choice](http://codepen.io/digilou/pen/xgQLwB)
+20. Monster of Choice

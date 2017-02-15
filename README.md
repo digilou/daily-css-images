@@ -32,3 +32,4 @@ Weekday CSS image creations initiated by the http://dailycssimages.com/.
 ## Week 4 - Superheroes
 21. Superman
 22. Green Lantern
+23. Wolverine

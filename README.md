@@ -35,3 +35,7 @@ Weekday CSS image creations initiated by the http://dailycssimages.com/.
 23. Wolverine
 24. Iron Man
 25. [Captain America](http://codepen.io/digilou/pen/NdVgVE/)
+
+## Week 5 - Icons
+26. Icon of choice
+27. Icon of choice

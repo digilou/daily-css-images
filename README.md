@@ -39,3 +39,4 @@ Weekday CSS image creations initiated by the http://dailycssimages.com/.
 ## Week 5 - Icons
 26. Icon of choice
 27. Icon of choice
+28. Cogs

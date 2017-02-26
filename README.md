@@ -41,3 +41,4 @@ Weekday CSS image creations initiated by the http://dailycssimages.com/.
 27. Icon of choice
 28. Cogs
 29. Download
+30. Bar Graph

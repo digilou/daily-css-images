@@ -42,3 +42,6 @@ Weekday CSS image creations initiated by the http://dailycssimages.com/.
 28. Cogs
 29. Download
 30. Bar Graph
+
+## Week 6 - Web Dev
+31. JavaScript logo

@@ -47,4 +47,4 @@ Weekday CSS image creations initiated by the http://dailycssimages.com/.
 31. JavaScript logo
 32. Angular logo
 33. VueJS logo
-34. React logo
+34. [React logo](http://codepen.io/digilou/full/qrZaVp/)

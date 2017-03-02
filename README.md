@@ -46,3 +46,4 @@ Weekday CSS image creations initiated by the http://dailycssimages.com/.
 ## Week 6 - Web Dev
 31. JavaScript logo
 32. Angular logo
+33. VueJS logo

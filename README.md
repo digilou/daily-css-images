@@ -55,3 +55,4 @@ Weekday CSS image creations initiated by the http://dailycssimages.com/.
 37. Laptop
 38. External Monitor
 39. Keyboard
+40. Nintendo 2DS

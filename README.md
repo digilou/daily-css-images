@@ -50,13 +50,14 @@ Weekday CSS image creations initiated by the http://dailycssimages.com/.
 34. [React logo](http://codepen.io/digilou/full/qrZaVp/)
 35. Elm logo
 
-## Week 7
+## Week 7 - Tech
 36. Cell phone
 37. Laptop
 38. External Monitor
 39. Keyboard
 40. Nintendo 2DS
 
-## Week 8
+## Week 8 - Mascots
 41. Mascot for Startup
-42. Critter (for startup)
+42. Critter
+43. Animal

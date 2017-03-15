@@ -56,3 +56,7 @@ Weekday CSS image creations initiated by the http://dailycssimages.com/.
 38. External Monitor
 39. Keyboard
 40. Nintendo 2DS
+
+## Week 8
+41. Mascot for Startup
+42. Critter (for startup)

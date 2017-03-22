@@ -64,5 +64,6 @@ Weekday CSS image creations initiated by the http://dailycssimages.com/.
 44. [Robot](http://codepen.io/digilou/full/XMzKNO/)
 45. Space-inspired
 
-## Week 9
+## Week 9 - Celebrate
 46. Piñata
+47. Cake

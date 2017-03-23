@@ -67,3 +67,4 @@ Weekday CSS image creations initiated by the http://dailycssimages.com/.
 ## Week 9 - Celebrate
 46. Piñata
 47. Cake
+48. Craft Beer

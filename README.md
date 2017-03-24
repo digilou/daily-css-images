@@ -68,3 +68,4 @@ Weekday CSS image creations initiated by the http://dailycssimages.com/.
 46. Piñata
 47. Cake
 48. Craft Beer
+49. Dance revolution mat
